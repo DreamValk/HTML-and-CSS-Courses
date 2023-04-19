@@ -1,0 +1,13 @@
+p {
+  font-family: Montserrat;
+  text-align: center
+}
+
+.title {
+  font-weight: bold;
+  text-align: center;
+}
+
+.touchless {
+  text-decoration: underline;
+}
