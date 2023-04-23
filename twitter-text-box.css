@@ -1,0 +1,34 @@
+img {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  object-fit: cover;
+  vertical-align: middle;
+}
+
+p {
+  vertical-align: middle;
+}
+
+input {
+  margin-left: 5px;
+  border: none;
+  font-size: 17px;
+  width: 200px;
+  vertical-align: middle;
+}
+
+button {
+  background-color: rgb(74,153,233);
+  color: white;
+  font-family: Arial;
+  font-weight: bold;
+  border: none;
+  border-radius: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 12px;
+  padding-right: 12px;
+  margin-left: 30px;
+  cursor: pointer;
+}
