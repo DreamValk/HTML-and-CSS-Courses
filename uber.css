@@ -1,0 +1,43 @@
+input {
+  background-color: rgb(240,240,240);
+  border: none;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 12.5px;
+  padding-right: 12.5px;
+  font-size: 15px;
+}
+
+button  {
+  margin-top: 20px;
+  border: none;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+p {
+  font-family: Arial;
+}
+
+.location {
+
+}
+
+.destination {
+  display: block;
+  margin-top: 5px;
+}
+
+.request-now {
+  background-color: black;
+  color: white;
+  cursor: pointer;
+}
+
+.schedule {
+  background-color: rgb(240,240,240);
+  margin-left: 5px;
+  cursor: pointer;
+}
