@@ -10,16 +10,11 @@ input {
   padding-right: 16px;
 }
 
-.first {
-}
-
-.family {
-
-}
 .email {
   margin-top: 10px;
   display: block;
 }
+
 .signup {
   text-align: center;
   font-weight: bold;
