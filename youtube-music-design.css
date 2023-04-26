@@ -1,0 +1,22 @@
+p {
+  font-family: Arial;
+  margin-left: 10px;
+}
+
+.youtube {
+  font-size: 25px;
+  color: white;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+.music {
+  margin-top: 15px;
+  color: rgb(144,143,144);
+}
+
+div {
+  background-color: rgb(32,32,33);
+  width: 375px;
+  height: 105px;
+}
