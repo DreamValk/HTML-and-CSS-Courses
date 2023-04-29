@@ -1,0 +1,52 @@
+p {
+  font-family: Arial;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.cat-img {
+  width: 200px;
+  height: 210px;
+  object-fit: cover;
+}
+
+.name {
+  font-size: 17.5px;
+  font-weight: bold;
+  margin-top: 5px;
+  margin-left: 8px;
+}
+
+.friends {
+  font-size: 15px;
+  color: rgb(149,149,149);
+  margin-top: 5px;
+  margin-left: 8px;
+}
+
+.add-friend {
+  background-color: rgb(57,117,234);
+  color: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 5px;
+  border: none;
+  margin-top: 15px;
+  margin-bottom: 5px;
+  margin-left: 8px;
+  cursor: pointer;
+  transition: background-color 1s;
+}
+
+.add-friend:hover {
+  background-color: rgb(46, 103, 217);
+  color: rgb(245, 245, 245);
+}
+
+.card {
+  height: 335px;
+  width: 200px;
+  box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.3);
+}
