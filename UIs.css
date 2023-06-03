@@ -1,0 +1,92 @@
+p{
+  margin-bottom: 0px;
+  margin-top: 0px;
+  margin-left: 15px;
+  margin-right: 0px;
+}
+
+button{
+  margin-left: 200px;
+  font-family: Arial;
+  font-size: 13px;
+  color: white;
+  font-weight: 600;
+  background-color: rgb(65,147,238);
+  border: none;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  padding-left: 12px;
+  padding-right: 12px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: padding-left 0.5s, padding-right 0.5s, padding-top 0.5s, padding-bottom 0.5s;
+}
+
+button:hover{
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 16px;
+  padding-right: 16px;
+  border-radius: 3px;
+}
+
+button:active{
+  color: rgb(228, 224, 224);
+  background-color: rgb(39, 121, 215);
+}
+
+img{
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+
+.text1{
+  color: #a3a3a3;
+  font-family: Arial;
+  font-size: 13px;
+  margin-left: 8px;
+  margin-bottom: 5px;
+}
+
+.text2{
+  color: #a3a3a3;
+  font-family: Arial;
+  font-size: 12px;
+  margin-bottom: 5px;
+}
+
+.pers {
+  font-family: Arial;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.qlivie{
+  font-family: Arial;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.flexbox{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 20px;
+  margin-left: 5px;
+}
+
+.flexbox1{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-left: 5px;
+  margin-top: 15px;
+}
+
+.shadow{
+  height: 65px;
+  width: 420px;
+  border-radius: 5px;
+  box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.3);
+}
